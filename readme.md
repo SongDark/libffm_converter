@@ -16,8 +16,9 @@ Please look up to `run.py` and modify the source and destination path.
     python run.py
 ```
 
-## Time consumption
+## Time consumption evaluation
 
 `./test.csv` contains 20 instances of 4 different categorical fields.
 Tried to convert it into .ffm file in both parallel and serial way, and their time consumtion are as follow.
 
+![pic](https://github.com/SongDark/libffm_converter/blob/master/time_test/res.png?raw=true)
