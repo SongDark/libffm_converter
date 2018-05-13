@@ -1,0 +1,5 @@
+.vscode/*
+*.pyc
+time_test/*.npy
+time_test/*.csv
+time_test/*.ffm
